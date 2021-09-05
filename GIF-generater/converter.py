@@ -18,7 +18,7 @@ def gifMaker(inputPath, targetFormat):
     for frames in reader:
         writer.append_data(frames)
         print(f'Frame {frames}')
-    print('Done')
+    print('Converting Done')
     writer.close()
 
 gifMaker(clip, '.gif')
