@@ -10,17 +10,17 @@ def isAbundant(x):
     """
     
     # your code here
-    abundant = False
+    Abundant = False
     sum = 0
     for i in range(1, x):
         if(x % i == 0):
             sum += i
     if (sum > x):
-        abundant = True
+        Abundant = True
         
     else:
-        abundant = False
+        Abundant = False
         
-    return abundant
+    return Abundant
 
 
