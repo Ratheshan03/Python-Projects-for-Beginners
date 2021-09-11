@@ -13,17 +13,17 @@ def isComposite(x):
     """
     
     # your code here
-    composite = False
+    Composite = False
     
     factor=0
     for i in range(1,x):
         if x%i==0:
             factor = i
     if factor > 1:
-        composite = True 
+        Composite = True 
     elif x == 1:
-        composite = False
+        Composite = False
     else:
-        composite = False
+        Composite = False
     
-    return composite 
+    return Composite 
