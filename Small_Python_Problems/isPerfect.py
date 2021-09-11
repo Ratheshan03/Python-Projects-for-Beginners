@@ -12,15 +12,15 @@ def isPerfect(x):
     
     # your code here
     
-    perfect = False
+    perfect_num = False
     sum = 0
     for i in range(1, x):
         if(x % i == 0):
             sum += i
     if (sum == x):
-        perfect = True
+        perfect_num = True
         
     else:
-        perfect = False
+        perfect_num = False
         
-    return perfect
+    return perfect_num
