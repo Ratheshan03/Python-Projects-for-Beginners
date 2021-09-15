@@ -1,0 +1,12 @@
+A: African Daisy
+B: Bellflower
+C: Coral Bells
+D: Desert Rose
+E: English Bluebell
+F: Forget Me Not
+G: Goldenrod
+H: Heliotrope
+I: Impatiens
+J: Jamesia americana
+K: Kangaroo Paw
+L: Lily of the Valley
