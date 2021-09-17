@@ -10,7 +10,7 @@ def isNarcissistic(x):
     """
     
     # your code here
-    narci = False
+    narciss = False
     sum = 0
     length = len(str(x))
  
@@ -24,10 +24,10 @@ def isNarcissistic(x):
  
     # Comparing number and sum
     if (number == sum):
-        narci = True
+        narciss = True
     else:
-         narci = False
+         narciss = False
     
-    return narci
+    return narciss
     
 
