@@ -14,23 +14,23 @@ def isPrime(x):
     """
     
     # your code here
-    prime_num = False
+    Prime_num = False
     
     if x > 1:
         # Iterate from 2 to n / 2
         for i in range(2, int(x/2)+1):
 
             # If num is divisible by any number between
-            # 2 and n / 2, it is not prime_num
+            # 2 and n / 2, it is not Prime_num
             if (x % i) == 0:
-                prime_num = False
+                Prime_num = False
                 break
         else:
-            prime_num = True
+            Prime_num = True
     else:
-        prime_num = False
+        Prime_num = False
         
-    return prime_num
+    return Prime_num
 
 
 # Prime number checking function-2
