@@ -7,6 +7,8 @@ Sharpen your Python skills by building projects. It has well structured with com
 - Minecraft Character maker
 - Rock Paper scissor
 
+..Many more to come..
+
 #### If u liked my projects and the code was useful to you, feel free to leave a star (much appreciated 😃), fork it and customize the projects as you like! :)
 
 ### Steps to contribute
