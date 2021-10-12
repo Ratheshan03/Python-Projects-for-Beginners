@@ -1,3 +1,5 @@
+# For any given html-code this will output a nicely structured text with all tags and its attributes
+
 from html.parser import HTMLParser
 
 class MyHTMLParser(HTMLParser):
@@ -16,3 +18,5 @@ class MyHTMLParser(HTMLParser):
             
 MyParser = MyHTMLParser()
 MyParser.feed(''.join([input().strip() for _ in range(int(input()))]))
+
+
