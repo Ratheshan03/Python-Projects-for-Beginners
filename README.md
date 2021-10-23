@@ -26,4 +26,6 @@ Sharpen your Python skills by building projects. It has well structured with com
 
 ### I'm happy to merge awesome programs and applications to this repository!
 
+</hr>
+
 ⏩ This Repo is Licensed under the [MIT License](LICENSE).
