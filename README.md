@@ -12,7 +12,8 @@ Sharpen your Python skills by building projects. It has well structured with com
 
 #### If u liked my projects and the code was useful to you, feel free to leave a star (much appreciated 😃), fork it and customize the projects as you like! :)
 
-### Steps to contribute
+
+## Steps to contribute
 
 ### 👉 Fork this repository
 ### 👉 Clone the repository
@@ -27,6 +28,5 @@ Sharpen your Python skills by building projects. It has well structured with com
 
 ### I'm happy to merge awesome programs and applications to this repository!
 
-</hr>
 
 ⏩ This Repo is Licensed under the [MIT License](LICENSE).
