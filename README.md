@@ -6,6 +6,7 @@ Sharpen your Python skills by building projects. It has well structured with com
 - GUI App
 - Minecraft Character maker
 - Rock Paper scissor
+- HTML Parser
 - Space Game
 
 ..Many more to come..
