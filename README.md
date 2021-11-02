@@ -8,6 +8,7 @@ Sharpen your Python skills by building projects. It has well structured with com
 - Rock Paper scissor
 - HTML Parser
 - Space Game
+- Small_Tasks
 
 ..Many more to come..
 
