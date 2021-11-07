@@ -1,4 +1,4 @@
-# Python-Projects-for-Beginners 🐍🚀
+# Python Projects for Beginners 🐍🚀
 
 Sharpen your Python skills by building projects. It has well structured with comments for explainations and it is very easy to understand every bit of code.
 
