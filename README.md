@@ -12,15 +12,14 @@ Sharpen your Python skills by building projects. It has well structured with com
 ### 👉 Add your projects in a new directory, the name of directory should be your `ProjectName/USERNAME`
   - Add a new program which don't exist earlier
   - It should be in .py extenstion
-  - Please run the program and check if there are no errors before making the PR
-  - Review other PR's as well
-  - No Spamming allowed, make sure to include all programs in one PR.
-
 ### 👉 Attach some SCREENSHOTS or GIF of your working project in the description _❗Important❗_.
 ### 👉 Add `One project` at a time
 ### 👉 Add & commit
 ### 👉 Push changes to GitHub
 ### 👉 Compare & Submit a Pull Request
+  - Please run the program and check if there are no errors before making the PR
+  - Review other PR's as well
+  - No Spamming allowed, make sure to include all programs in one PR.
 ### 👉 Leave a ⭐ if you liked working on the project.
 
 ### I'm happy to merge awesome programs and applications to this repository!
